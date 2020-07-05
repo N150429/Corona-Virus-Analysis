@@ -1,0 +1,12 @@
+Realtime Corona virus analysis
+
+# A project by pyGuru
+
+* Get connected with internet
+* Run this corona-virus.py script
+* It will print gathered data and generate a bar graph
+* It will also save the tabular data in csv file which you can open MS Excel and an image of the bar graph.
+
+
+
+# Learn more by visiting the pyGuru on youtube
