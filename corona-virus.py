@@ -1,6 +1,6 @@
 #						Realtime analysis on corona virus
 
-# Visit pyGuru on youtube
+
 
 # importing modules
 import requests
